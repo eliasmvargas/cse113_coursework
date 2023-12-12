@@ -1,0 +1,19 @@
+
+
+NOTICE!!:
+
+Ely specifically said for this lab that we don't actually need to malloc anything
+because we already have an allocated size for the array.
+So no need for two different script files, or for freeing in general.
+
+da.out file is in a script file rather than redirection, could not find information on how to redirect with leaks for mac m1.
+
+Purpose:
+This lab essentially deals with pointers and malloc, and how to use them to do interesting operations to strings of things.
+
+Conclusion:
+I learned how to malloc things properly and how powerful a tool it is. I also think I understand pointers much better now.
+The pair programming helped a lot.
+Not really any major problems.
+I'm not aware of any bugs.
+I think for the scope of this lab no improvements need to be made.
