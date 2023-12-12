@@ -1,14 +1,13 @@
 PURPOSE:
-Lab8.c works with linked lists to do a few different processes with them.
+This lab is designed to experiment with various algorithms for linked lists.
 collatz.c tests the collatz conjecture and calculates the cycle length given some input of n.
 
 CONCLUSION:
 I learned a lot more about linked lists and became significantly more comfortable with them.
-The pair programming actually helped quite a bit this time.
-I did not work with a buddy on this lab.
 I encountered a few technical problems on lab8.c, which were fixed by just practicing and understanding how linked lists work.
 I think lab8.c could probably be a bit more streamlined.
 
 NOTICE!!!
-Valgrind does not work on my machine, so I output the terminal output in a script called l8-valgrind.script using the mac m1 leaks command which doesn't have
-a redirect output function as far as I know :(
+Valgrind does not work on my machine. I saved the terminal output in a script called l8-valgrind.script 
+using the mac m1 leaks command which doesn't have a redirect output function as far as I know. I will be looking into
+how to do just that.
