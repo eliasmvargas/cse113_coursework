@@ -1,0 +1,112 @@
+Script started on Sat Nov 18 19:19:43 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                              [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab8 % [K[?2004hggcc -g -Wa      g  lleaks --atExi t ./lab8[?2004l
+leaks[17166]: [fatal] --atExit must be followed by " -- <command>"
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                              [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab8 % [K[?2004hleaks --atExit ./lab8- ./lab8- ./lab8 ./lab8 [8D ./lab8 [8D[1C ./lab8- ./lab8- ./lab8[?2004l
+lab8(17170) MallocStackLogging: could not tag MSL-related memory as no_footprint, so those pages will be included in process footprint - (null)
+lab8(17170) MallocStackLogging: recording malloc and VM allocation stacks using lite mode
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+1
+Enter data: 
+52
+... 
+Node created! 
+Please select a location: 
+a) Head of the list
+b) Middle of the list
+c) Tail of the list
+Please enter a valid selection
+a
+Header node inserted.
+
+_____________
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+1 1
+Enter data: 
+5 82
+... 
+Node created! 
+Please select a location: 
+a) Head of the list
+b) Middle of the list
+c) Tail of the list
+Please enter a valid selection
+c
+Tail node inserted.
+
+_____________
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+1
+Enter data: 
+902
+... 
+Node created! 
+Please select a location: 
+a) Head of the list
+b) Middle of the list
+c) Tail of the list
+Please enter a valid selection
+b
+Please enter location index: 
+2
+The total number of nodes is: 2Node inserted.
+
+_____________
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+4
+The total number of nodes is: 3
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+5 6
+Process 17170 is not debuggable. Due to security restrictions, leaks can only show or save contents of readonly memory of restricted processes.
+
+Process:         lab8 [17170]
+Path:            /Users/USER/Documents/*/lab8
+Load Address:    0x10271c000
+Identifier:      lab8
+Version:         0
+Code Type:       ARM64
+Platform:        macOS
+Parent Process:  leaks [17169]
+
+Date/Time:       2023-11-18 19:20:19.604 -0700
+Launch Time:     2023-11-18 19:19:56.241 -0700
+OS Version:      macOS 14.1.1 (23B81)
+Report Version:  7
+Analysis Tool:   /usr/bin/leaks
+
+Physical footprint:         3345K
+Physical footprint (peak):  3345K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 17170: 191 nodes malloced for 19 KB
+Process 17170: 0 leaks for 0 total leaked bytes.
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                              [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab8 % [K[?2004heexit[?2004l
+
+Script done on Sat Nov 18 19:20:24 2023

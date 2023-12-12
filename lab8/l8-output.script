@@ -1,0 +1,109 @@
+Script started on Sat Nov 18 19:17:51 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                              [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab8 % [K[?2004hggcc -g- W   - Wall     WAll -    all -lm lab8lc   .c -o lab8[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                              [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab8 % [K[?2004h../lab8[?2004l
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+1
+Enter data: 
+29
+... 
+Node created! 
+Please select a location: 
+a) Head of the list
+b) Middle of the list
+c) Tail of the list
+Please enter a valid selection
+a
+Header node inserted.
+
+_____________
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+1
+Enter data: 
+22  59
+... 
+Node created! 
+Please select a location: 
+a) Head of the list
+b) Middle of the list
+c) Tail of the list
+Please enter a valid selection
+c
+Tail node inserted.
+
+_____________
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+1
+Enter data: 
+22  51  77
+... 
+Node created! 
+Please select a location: 
+a) Head of the list
+b) Middle of the list
+c) Tail of the list
+Please enter a valid selection
+b
+Please enter location index: 
+2
+The total number of nodes is: 2Node inserted.
+
+_____________
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+3
+
+
+ DATA:
+DATA: 29.000000
+DATA: 59.000000
+DATA: 77.000000
+
+
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+4
+The total number of nodes is: 3
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+5
+Which number are you looking for? 
+77
+Data entry: 77.000000 exists in the list. 
+1) Enter a number
+2) Delete a number
+3) Print all numbers
+4) Count number of items in list
+5) Search the list for a number
+6) Quit
+7 6
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                              [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab8 % [K[?2004hcclear[?2004l
+[H[2J[3J[1m[7m%[27m[1m[0m                                                                                                                                                                                                              [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab8 % [K[?2004heexit[?2004l
+
+Script done on Sat Nov 18 19:18:44 2023
