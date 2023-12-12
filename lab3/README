@@ -1,0 +1,60 @@
+PURPOSE:
+This program is designed to showcase a number of array algorithms and their outputs. 
+
+Pair programming helped quite a bit actually, though as an introvert of course I enjoyed the individual part more.
+
+BUGS:
+None AFAIK
+
+Improvements:
+Perhaps more functions..
+
+Through this lab I learned much more about how arrays work, and how to manipulate values inside of them. Very useful for pretty much all things data.
+
+
+
+
+Pseudo code:
+
+// counts number of elements in the array less than x
+
+for i = 1 to N
+    if A[i] < x
+        count = count + 1
+
+// counts number of elements in the array less than or equal to x
+
+for i = 1 to N 
+    if A[1] <= x
+        count = count + 1
+
+// counts number of elements in the array greater than or equal to x
+
+for i = 1 to N 
+    if A[1] >= x
+        count = count + 1
+
+// counts number of elements in the array greater than x
+
+for i = 1 to N 
+    if A[1] > x
+        count = count + 1
+
+// swaps array elements
+
+for i = 1 to N 
+    temp = A[i]
+    A[i] = A[array size - 1 - index]
+    A[array size - 1 - index] = temp
+
+// even term counter
+
+for i = 1 to N 
+    if A[i] mod 2 = 0
+        count = count + 1
+
+// odd term counter
+
+for i = 1 to N 
+    if A[i] mod 2 = 1
+        count = count + 1
