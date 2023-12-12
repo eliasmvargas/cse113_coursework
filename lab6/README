@@ -1,8 +1,12 @@
+PURPOSE:
 This program is designed to track data from a simulated zombie apocalpse.
 
-I mostly learned the logistics of using a struct and implementing it in more advanced ways. Also just practicing the combination of using various techniques in this has been very helpful.
-The pair programming was useful I'd say. Makefiles can be a bit tricky and I'm still a little confused on them.
+I mostly learned the logistics of using a struct and implementing it in more advanced ways. 
+Practicing the combination of using various techniques in this has been very helpful.
 I mostly encountered problems with data validation and also getting the while loops to work properly. 
 
-Bugs: The main bug occurs when inputting several characters into the scanfs, it causes an infinite print loop which is really annoying and I'm not sure how to fix.
-Future fix: I think it would be neat to store the data in another file so that it is saved even after closing the program.
+BUGS:
+The main bug occurs when inputting several characters into the scanfs, it causes an infinite print loop which is really annoying.
+
+TODO/IMPROVEMENTS:
+I think it would be neat to store the data in another file so that it is saved even after closing the program.
