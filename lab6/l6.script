@@ -1,0 +1,73 @@
+Script started on Mon Oct 30 19:20:28 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                             [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab6 % [K[?2004hmmake[?2004l
+gcc -g -Wall -c  zombie.c
+gcc -g -Wall lab6.c zombie.o -o ./lab6
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                             [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab6 % [K[?2004h../lab6[?2004l
+ 1) Enter new zombie information 
+ 2) Display zombie information 
+ 3) Return to fighting zombies (exit)
+1
+Was the zombie found dead? Y/N? Q to exit 
+Y
+Please enter the number of toes the zombie had: 
+7
+Please choose the day this zombie was encountered: 
+ 1) Monday 
+ 2) Tuesday 
+ 3) Wednesday 
+ 4) Thursday 
+ 5) Friday 
+ 6) Saturday 
+ 7) Sunday
+5
+Please enter the time this zombie was encountered. 
+ Separate hours, minutes, and seconds with colons. (HH:MM:SS)
+12:33:42
+ 1) Enter new zombie information 
+ 2) Display zombie information 
+ 3) Return to fighting zombies (exit)
+1
+Was the zombie found dead? Y/N? Q to exit 
+N
+Please enter the amount of blood that oozed from its body after you eliminated it (in mL): 
+1073.32
+Please choose the day this zombie was encountered: 
+ 1) Monday 
+ 2) Tuesday 
+ 3) Wednesday 
+ 4) Thursday 
+ 5) Friday 
+ 6) Saturday 
+ 7) Sunday
+1
+Please enter the time this zombie was encountered. 
+ Separate hours, minutes, and seconds with colons. (HH:MM:SS)
+: 1:22:12
+ 1) Enter new zombie information 
+ 2) Display zombie information 
+ 3) Return to fighting zombies (exit)
+2
+
+ 
+ 
+ 1)This zombie was found DEAD.This zombie had 7 toes.
+This zombie was sighted on Friday at 12:33:42. 
+
+
+ 
+ 
+ 2)This zombie was found ALIVE. This zombie had 1073.319946 mL of blood ooze from it.
+This zombie was sighted on Monday at 01:22:12. 
+
+ 1) Enter new zombie information 
+ 2) Display zombie information 
+ 3) Return to fighting zombies (exit)
+3
+Stay alert! Keep a watch out for zombies!! 
+ 
+ GOODBYE and GOOD LUCK! 
+ 
+ [1m[7m%[27m[1m[0m                                                                                                                                                                                                                                             [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab6 % [K[?2004he cclear[?2004l
+[H[2J[3J[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                             [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab6 % [K[?2004heexit[?2004l
+
+Script done on Mon Oct 30 19:21:52 2023
