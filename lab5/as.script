@@ -1,0 +1,24 @@
+Script started on Sun Oct 15 18:12:58 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                   [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab5 % [K[?2004hexit./lab5gcc -g -Wall lab5.c -o lab5[27Dtar[2Cczvf cse113_elias_vargas_lab3.tar.gz array.c array.h l3.script lab3.c README[81Dgcc[2Cg -Wall lab5.c -o lab5                                                      [54D[27D./lab5                     [21Dexit      ggcc -g-   -Wall array_struct.c -o array_struct[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                   [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab5 % [K[?2004h../array_struct[?2004l
+Struct with min age: 
+ID : C 
+Age : 19 
+Height : 68 
+Struct with min height: 
+ID : E 
+Age : 22 
+Height : 62 
+Struct with max age: 
+ID : A 
+Age : 23 
+Height : 74 
+Struct with max height: 
+ID : D 
+Age : 20 
+Height : 76 
+The average age is: 21 
+The average height is: 68 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                   [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab5 % [K[?2004hs eexit[?2004l
+
+Script done on Sun Oct 15 18:13:14 2023

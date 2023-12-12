@@ -1,0 +1,15 @@
+
+Purpose:
+This program utilizes structures and performs various functions on the variables within those structures. 
+It then prints out the structure index resulting from said functions.
+
+Conclusion:
+I learned a very crucial skill: structs and how to use them. During lab3 I was thinking to myself the entire time "There has to be a better way to do this." And this is just that!
+
+The pair programming prelab really helped me brush up on my array algorithms before jumping into the more difficult task of this lab.
+
+I encountered several problems, mostly pertaining to calling and updating parts of certain structs. This was tedious, but I think wrestling with it really helped me.
+
+There are no bugs as far as I am aware.
+
+I can't think of any improvements for this very specific task. Though I think maybe more algorithms could be really neat!

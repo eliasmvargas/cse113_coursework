@@ -1,0 +1,4 @@
+The use case for a structure is when you are dealing with several different variables and need to store them in one convenient package. 
+Contrarily, an array is most useful when you have a single variable with several entries that you need to conveniently keep track of.
+You can get use both simultaneously and have an array of structs when you have several variables that are related and need to be grouped, 
+with several entries on each of those variables.
