@@ -1,0 +1,4080 @@
+Script started on Tue Oct 17 23:24:06 2023
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004hggcc -g -Wall for_100.c  01.  .c -o 
+[Ja.out*               for_1000.dSYM/       init_print*          multiply.c           prelab_credit.c      while_1000.dSYM/
+a.out.dSYM/          init*                init_print.c         multiply.dSYM/       prelab_credit.dSYM/  
+for_1000*            init.c               init_print.dSYM/     pl3.script           while_1000*          
+for_1000.c           init.dSYM/           multiply*            prelab_credit*       while_1000.c         [4A[0m[27m[24m[41Cgcc -g -Wall for_1000.c -o[K[1Cfor
+[J[A[71C_1000[?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004h../for_1000[?2004l
+The number is: 1
+The number is: 2
+The number is: 3
+The number is: 4
+The number is: 5
+The number is: 6
+The number is: 7
+The number is: 8
+The number is: 9
+The number is: 10
+The number is: 11
+The number is: 12
+The number is: 13
+The number is: 14
+The number is: 15
+The number is: 16
+The number is: 17
+The number is: 18
+The number is: 19
+The number is: 20
+The number is: 21
+The number is: 22
+The number is: 23
+The number is: 24
+The number is: 25
+The number is: 26
+The number is: 27
+The number is: 28
+The number is: 29
+The number is: 30
+The number is: 31
+The number is: 32
+The number is: 33
+The number is: 34
+The number is: 35
+The number is: 36
+The number is: 37
+The number is: 38
+The number is: 39
+The number is: 40
+The number is: 41
+The number is: 42
+The number is: 43
+The number is: 44
+The number is: 45
+The number is: 46
+The number is: 47
+The number is: 48
+The number is: 49
+The number is: 50
+The number is: 51
+The number is: 52
+The number is: 53
+The number is: 54
+The number is: 55
+The number is: 56
+The number is: 57
+The number is: 58
+The number is: 59
+The number is: 60
+The number is: 61
+The number is: 62
+The number is: 63
+The number is: 64
+The number is: 65
+The number is: 66
+The number is: 67
+The number is: 68
+The number is: 69
+The number is: 70
+The number is: 71
+The number is: 72
+The number is: 73
+The number is: 74
+The number is: 75
+The number is: 76
+The number is: 77
+The number is: 78
+The number is: 79
+The number is: 80
+The number is: 81
+The number is: 82
+The number is: 83
+The number is: 84
+The number is: 85
+The number is: 86
+The number is: 87
+The number is: 88
+The number is: 89
+The number is: 90
+The number is: 91
+The number is: 92
+The number is: 93
+The number is: 94
+The number is: 95
+The number is: 96
+The number is: 97
+The number is: 98
+The number is: 99
+The number is: 100
+The number is: 101
+The number is: 102
+The number is: 103
+The number is: 104
+The number is: 105
+The number is: 106
+The number is: 107
+The number is: 108
+The number is: 109
+The number is: 110
+The number is: 111
+The number is: 112
+The number is: 113
+The number is: 114
+The number is: 115
+The number is: 116
+The number is: 117
+The number is: 118
+The number is: 119
+The number is: 120
+The number is: 121
+The number is: 122
+The number is: 123
+The number is: 124
+The number is: 125
+The number is: 126
+The number is: 127
+The number is: 128
+The number is: 129
+The number is: 130
+The number is: 131
+The number is: 132
+The number is: 133
+The number is: 134
+The number is: 135
+The number is: 136
+The number is: 137
+The number is: 138
+The number is: 139
+The number is: 140
+The number is: 141
+The number is: 142
+The number is: 143
+The number is: 144
+The number is: 145
+The number is: 146
+The number is: 147
+The number is: 148
+The number is: 149
+The number is: 150
+The number is: 151
+The number is: 152
+The number is: 153
+The number is: 154
+The number is: 155
+The number is: 156
+The number is: 157
+The number is: 158
+The number is: 159
+The number is: 160
+The number is: 161
+The number is: 162
+The number is: 163
+The number is: 164
+The number is: 165
+The number is: 166
+The number is: 167
+The number is: 168
+The number is: 169
+The number is: 170
+The number is: 171
+The number is: 172
+The number is: 173
+The number is: 174
+The number is: 175
+The number is: 176
+The number is: 177
+The number is: 178
+The number is: 179
+The number is: 180
+The number is: 181
+The number is: 182
+The number is: 183
+The number is: 184
+The number is: 185
+The number is: 186
+The number is: 187
+The number is: 188
+The number is: 189
+The number is: 190
+The number is: 191
+The number is: 192
+The number is: 193
+The number is: 194
+The number is: 195
+The number is: 196
+The number is: 197
+The number is: 198
+The number is: 199
+The number is: 200
+The number is: 201
+The number is: 202
+The number is: 203
+The number is: 204
+The number is: 205
+The number is: 206
+The number is: 207
+The number is: 208
+The number is: 209
+The number is: 210
+The number is: 211
+The number is: 212
+The number is: 213
+The number is: 214
+The number is: 215
+The number is: 216
+The number is: 217
+The number is: 218
+The number is: 219
+The number is: 220
+The number is: 221
+The number is: 222
+The number is: 223
+The number is: 224
+The number is: 225
+The number is: 226
+The number is: 227
+The number is: 228
+The number is: 229
+The number is: 230
+The number is: 231
+The number is: 232
+The number is: 233
+The number is: 234
+The number is: 235
+The number is: 236
+The number is: 237
+The number is: 238
+The number is: 239
+The number is: 240
+The number is: 241
+The number is: 242
+The number is: 243
+The number is: 244
+The number is: 245
+The number is: 246
+The number is: 247
+The number is: 248
+The number is: 249
+The number is: 250
+The number is: 251
+The number is: 252
+The number is: 253
+The number is: 254
+The number is: 255
+The number is: 256
+The number is: 257
+The number is: 258
+The number is: 259
+The number is: 260
+The number is: 261
+The number is: 262
+The number is: 263
+The number is: 264
+The number is: 265
+The number is: 266
+The number is: 267
+The number is: 268
+The number is: 269
+The number is: 270
+The number is: 271
+The number is: 272
+The number is: 273
+The number is: 274
+The number is: 275
+The number is: 276
+The number is: 277
+The number is: 278
+The number is: 279
+The number is: 280
+The number is: 281
+The number is: 282
+The number is: 283
+The number is: 284
+The number is: 285
+The number is: 286
+The number is: 287
+The number is: 288
+The number is: 289
+The number is: 290
+The number is: 291
+The number is: 292
+The number is: 293
+The number is: 294
+The number is: 295
+The number is: 296
+The number is: 297
+The number is: 298
+The number is: 299
+The number is: 300
+The number is: 301
+The number is: 302
+The number is: 303
+The number is: 304
+The number is: 305
+The number is: 306
+The number is: 307
+The number is: 308
+The number is: 309
+The number is: 310
+The number is: 311
+The number is: 312
+The number is: 313
+The number is: 314
+The number is: 315
+The number is: 316
+The number is: 317
+The number is: 318
+The number is: 319
+The number is: 320
+The number is: 321
+The number is: 322
+The number is: 323
+The number is: 324
+The number is: 325
+The number is: 326
+The number is: 327
+The number is: 328
+The number is: 329
+The number is: 330
+The number is: 331
+The number is: 332
+The number is: 333
+The number is: 334
+The number is: 335
+The number is: 336
+The number is: 337
+The number is: 338
+The number is: 339
+The number is: 340
+The number is: 341
+The number is: 342
+The number is: 343
+The number is: 344
+The number is: 345
+The number is: 346
+The number is: 347
+The number is: 348
+The number is: 349
+The number is: 350
+The number is: 351
+The number is: 352
+The number is: 353
+The number is: 354
+The number is: 355
+The number is: 356
+The number is: 357
+The number is: 358
+The number is: 359
+The number is: 360
+The number is: 361
+The number is: 362
+The number is: 363
+The number is: 364
+The number is: 365
+The number is: 366
+The number is: 367
+The number is: 368
+The number is: 369
+The number is: 370
+The number is: 371
+The number is: 372
+The number is: 373
+The number is: 374
+The number is: 375
+The number is: 376
+The number is: 377
+The number is: 378
+The number is: 379
+The number is: 380
+The number is: 381
+The number is: 382
+The number is: 383
+The number is: 384
+The number is: 385
+The number is: 386
+The number is: 387
+The number is: 388
+The number is: 389
+The number is: 390
+The number is: 391
+The number is: 392
+The number is: 393
+The number is: 394
+The number is: 395
+The number is: 396
+The number is: 397
+The number is: 398
+The number is: 399
+The number is: 400
+The number is: 401
+The number is: 402
+The number is: 403
+The number is: 404
+The number is: 405
+The number is: 406
+The number is: 407
+The number is: 408
+The number is: 409
+The number is: 410
+The number is: 411
+The number is: 412
+The number is: 413
+The number is: 414
+The number is: 415
+The number is: 416
+The number is: 417
+The number is: 418
+The number is: 419
+The number is: 420
+The number is: 421
+The number is: 422
+The number is: 423
+The number is: 424
+The number is: 425
+The number is: 426
+The number is: 427
+The number is: 428
+The number is: 429
+The number is: 430
+The number is: 431
+The number is: 432
+The number is: 433
+The number is: 434
+The number is: 435
+The number is: 436
+The number is: 437
+The number is: 438
+The number is: 439
+The number is: 440
+The number is: 441
+The number is: 442
+The number is: 443
+The number is: 444
+The number is: 445
+The number is: 446
+The number is: 447
+The number is: 448
+The number is: 449
+The number is: 450
+The number is: 451
+The number is: 452
+The number is: 453
+The number is: 454
+The number is: 455
+The number is: 456
+The number is: 457
+The number is: 458
+The number is: 459
+The number is: 460
+The number is: 461
+The number is: 462
+The number is: 463
+The number is: 464
+The number is: 465
+The number is: 466
+The number is: 467
+The number is: 468
+The number is: 469
+The number is: 470
+The number is: 471
+The number is: 472
+The number is: 473
+The number is: 474
+The number is: 475
+The number is: 476
+The number is: 477
+The number is: 478
+The number is: 479
+The number is: 480
+The number is: 481
+The number is: 482
+The number is: 483
+The number is: 484
+The number is: 485
+The number is: 486
+The number is: 487
+The number is: 488
+The number is: 489
+The number is: 490
+The number is: 491
+The number is: 492
+The number is: 493
+The number is: 494
+The number is: 495
+The number is: 496
+The number is: 497
+The number is: 498
+The number is: 499
+The number is: 500
+The number is: 501
+The number is: 502
+The number is: 503
+The number is: 504
+The number is: 505
+The number is: 506
+The number is: 507
+The number is: 508
+The number is: 509
+The number is: 510
+The number is: 511
+The number is: 512
+The number is: 513
+The number is: 514
+The number is: 515
+The number is: 516
+The number is: 517
+The number is: 518
+The number is: 519
+The number is: 520
+The number is: 521
+The number is: 522
+The number is: 523
+The number is: 524
+The number is: 525
+The number is: 526
+The number is: 527
+The number is: 528
+The number is: 529
+The number is: 530
+The number is: 531
+The number is: 532
+The number is: 533
+The number is: 534
+The number is: 535
+The number is: 536
+The number is: 537
+The number is: 538
+The number is: 539
+The number is: 540
+The number is: 541
+The number is: 542
+The number is: 543
+The number is: 544
+The number is: 545
+The number is: 546
+The number is: 547
+The number is: 548
+The number is: 549
+The number is: 550
+The number is: 551
+The number is: 552
+The number is: 553
+The number is: 554
+The number is: 555
+The number is: 556
+The number is: 557
+The number is: 558
+The number is: 559
+The number is: 560
+The number is: 561
+The number is: 562
+The number is: 563
+The number is: 564
+The number is: 565
+The number is: 566
+The number is: 567
+The number is: 568
+The number is: 569
+The number is: 570
+The number is: 571
+The number is: 572
+The number is: 573
+The number is: 574
+The number is: 575
+The number is: 576
+The number is: 577
+The number is: 578
+The number is: 579
+The number is: 580
+The number is: 581
+The number is: 582
+The number is: 583
+The number is: 584
+The number is: 585
+The number is: 586
+The number is: 587
+The number is: 588
+The number is: 589
+The number is: 590
+The number is: 591
+The number is: 592
+The number is: 593
+The number is: 594
+The number is: 595
+The number is: 596
+The number is: 597
+The number is: 598
+The number is: 599
+The number is: 600
+The number is: 601
+The number is: 602
+The number is: 603
+The number is: 604
+The number is: 605
+The number is: 606
+The number is: 607
+The number is: 608
+The number is: 609
+The number is: 610
+The number is: 611
+The number is: 612
+The number is: 613
+The number is: 614
+The number is: 615
+The number is: 616
+The number is: 617
+The number is: 618
+The number is: 619
+The number is: 620
+The number is: 621
+The number is: 622
+The number is: 623
+The number is: 624
+The number is: 625
+The number is: 626
+The number is: 627
+The number is: 628
+The number is: 629
+The number is: 630
+The number is: 631
+The number is: 632
+The number is: 633
+The number is: 634
+The number is: 635
+The number is: 636
+The number is: 637
+The number is: 638
+The number is: 639
+The number is: 640
+The number is: 641
+The number is: 642
+The number is: 643
+The number is: 644
+The number is: 645
+The number is: 646
+The number is: 647
+The number is: 648
+The number is: 649
+The number is: 650
+The number is: 651
+The number is: 652
+The number is: 653
+The number is: 654
+The number is: 655
+The number is: 656
+The number is: 657
+The number is: 658
+The number is: 659
+The number is: 660
+The number is: 661
+The number is: 662
+The number is: 663
+The number is: 664
+The number is: 665
+The number is: 666
+The number is: 667
+The number is: 668
+The number is: 669
+The number is: 670
+The number is: 671
+The number is: 672
+The number is: 673
+The number is: 674
+The number is: 675
+The number is: 676
+The number is: 677
+The number is: 678
+The number is: 679
+The number is: 680
+The number is: 681
+The number is: 682
+The number is: 683
+The number is: 684
+The number is: 685
+The number is: 686
+The number is: 687
+The number is: 688
+The number is: 689
+The number is: 690
+The number is: 691
+The number is: 692
+The number is: 693
+The number is: 694
+The number is: 695
+The number is: 696
+The number is: 697
+The number is: 698
+The number is: 699
+The number is: 700
+The number is: 701
+The number is: 702
+The number is: 703
+The number is: 704
+The number is: 705
+The number is: 706
+The number is: 707
+The number is: 708
+The number is: 709
+The number is: 710
+The number is: 711
+The number is: 712
+The number is: 713
+The number is: 714
+The number is: 715
+The number is: 716
+The number is: 717
+The number is: 718
+The number is: 719
+The number is: 720
+The number is: 721
+The number is: 722
+The number is: 723
+The number is: 724
+The number is: 725
+The number is: 726
+The number is: 727
+The number is: 728
+The number is: 729
+The number is: 730
+The number is: 731
+The number is: 732
+The number is: 733
+The number is: 734
+The number is: 735
+The number is: 736
+The number is: 737
+The number is: 738
+The number is: 739
+The number is: 740
+The number is: 741
+The number is: 742
+The number is: 743
+The number is: 744
+The number is: 745
+The number is: 746
+The number is: 747
+The number is: 748
+The number is: 749
+The number is: 750
+The number is: 751
+The number is: 752
+The number is: 753
+The number is: 754
+The number is: 755
+The number is: 756
+The number is: 757
+The number is: 758
+The number is: 759
+The number is: 760
+The number is: 761
+The number is: 762
+The number is: 763
+The number is: 764
+The number is: 765
+The number is: 766
+The number is: 767
+The number is: 768
+The number is: 769
+The number is: 770
+The number is: 771
+The number is: 772
+The number is: 773
+The number is: 774
+The number is: 775
+The number is: 776
+The number is: 777
+The number is: 778
+The number is: 779
+The number is: 780
+The number is: 781
+The number is: 782
+The number is: 783
+The number is: 784
+The number is: 785
+The number is: 786
+The number is: 787
+The number is: 788
+The number is: 789
+The number is: 790
+The number is: 791
+The number is: 792
+The number is: 793
+The number is: 794
+The number is: 795
+The number is: 796
+The number is: 797
+The number is: 798
+The number is: 799
+The number is: 800
+The number is: 801
+The number is: 802
+The number is: 803
+The number is: 804
+The number is: 805
+The number is: 806
+The number is: 807
+The number is: 808
+The number is: 809
+The number is: 810
+The number is: 811
+The number is: 812
+The number is: 813
+The number is: 814
+The number is: 815
+The number is: 816
+The number is: 817
+The number is: 818
+The number is: 819
+The number is: 820
+The number is: 821
+The number is: 822
+The number is: 823
+The number is: 824
+The number is: 825
+The number is: 826
+The number is: 827
+The number is: 828
+The number is: 829
+The number is: 830
+The number is: 831
+The number is: 832
+The number is: 833
+The number is: 834
+The number is: 835
+The number is: 836
+The number is: 837
+The number is: 838
+The number is: 839
+The number is: 840
+The number is: 841
+The number is: 842
+The number is: 843
+The number is: 844
+The number is: 845
+The number is: 846
+The number is: 847
+The number is: 848
+The number is: 849
+The number is: 850
+The number is: 851
+The number is: 852
+The number is: 853
+The number is: 854
+The number is: 855
+The number is: 856
+The number is: 857
+The number is: 858
+The number is: 859
+The number is: 860
+The number is: 861
+The number is: 862
+The number is: 863
+The number is: 864
+The number is: 865
+The number is: 866
+The number is: 867
+The number is: 868
+The number is: 869
+The number is: 870
+The number is: 871
+The number is: 872
+The number is: 873
+The number is: 874
+The number is: 875
+The number is: 876
+The number is: 877
+The number is: 878
+The number is: 879
+The number is: 880
+The number is: 881
+The number is: 882
+The number is: 883
+The number is: 884
+The number is: 885
+The number is: 886
+The number is: 887
+The number is: 888
+The number is: 889
+The number is: 890
+The number is: 891
+The number is: 892
+The number is: 893
+The number is: 894
+The number is: 895
+The number is: 896
+The number is: 897
+The number is: 898
+The number is: 899
+The number is: 900
+The number is: 901
+The number is: 902
+The number is: 903
+The number is: 904
+The number is: 905
+The number is: 906
+The number is: 907
+The number is: 908
+The number is: 909
+The number is: 910
+The number is: 911
+The number is: 912
+The number is: 913
+The number is: 914
+The number is: 915
+The number is: 916
+The number is: 917
+The number is: 918
+The number is: 919
+The number is: 920
+The number is: 921
+The number is: 922
+The number is: 923
+The number is: 924
+The number is: 925
+The number is: 926
+The number is: 927
+The number is: 928
+The number is: 929
+The number is: 930
+The number is: 931
+The number is: 932
+The number is: 933
+The number is: 934
+The number is: 935
+The number is: 936
+The number is: 937
+The number is: 938
+The number is: 939
+The number is: 940
+The number is: 941
+The number is: 942
+The number is: 943
+The number is: 944
+The number is: 945
+The number is: 946
+The number is: 947
+The number is: 948
+The number is: 949
+The number is: 950
+The number is: 951
+The number is: 952
+The number is: 953
+The number is: 954
+The number is: 955
+The number is: 956
+The number is: 957
+The number is: 958
+The number is: 959
+The number is: 960
+The number is: 961
+The number is: 962
+The number is: 963
+The number is: 964
+The number is: 965
+The number is: 966
+The number is: 967
+The number is: 968
+The number is: 969
+The number is: 970
+The number is: 971
+The number is: 972
+The number is: 973
+The number is: 974
+The number is: 975
+The number is: 976
+The number is: 977
+The number is: 978
+The number is: 979
+The number is: 980
+The number is: 981
+The number is: 982
+The number is: 983
+The number is: 984
+The number is: 985
+The number is: 986
+The number is: 987
+The number is: 988
+The number is: 989
+The number is: 990
+The number is: 991
+The number is: 992
+The number is: 993
+The number is: 994
+The number is: 995
+The number is: 996
+The number is: 997
+The number is: 998
+The number is: 999
+The number is: 1000
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004hggcc -g -Wall while_1000.c -o 
+[Ja.out*               for_1000.dSYM/       init_print*          multiply.c           prelab_credit.c      while_1000.dSYM/
+a.out.dSYM/          init*                init_print.c         multiply.dSYM/       prelab_credit.dSYM/  
+for_1000*            init.c               init_print.dSYM/     pl3.script           while_1000*          
+for_1000.c           init.dSYM/           multiply*            prelab_credit*       while_1000.c         [4A[0m[27m[24m[41Cgcc -g -Wall while_1000.c -o[K[1Cwhi
+[J[A[73Cle_1000[?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004h../
+[Ja.out*               for_1000.dSYM/       init_print*          multiply.dSYM/       while_1000*          
+a.out.dSYM/          init*                init_print.dSYM/     prelab_credit*       while_1000.dSYM/     
+for_1000*            init.dSYM/           multiply*            prelab_credit.dSYM/  [3A[0m[27m[24m[41C./[Kwhi
+[J[A[46Cle_1000[?2004l
+[JT minus 1000
+T minus 999
+T minus 998
+T minus 997
+T minus 996
+T minus 995
+T minus 994
+T minus 993
+T minus 992
+T minus 991
+T minus 990
+T minus 989
+T minus 988
+T minus 987
+T minus 986
+T minus 985
+T minus 984
+T minus 983
+T minus 982
+T minus 981
+T minus 980
+T minus 979
+T minus 978
+T minus 977
+T minus 976
+T minus 975
+T minus 974
+T minus 973
+T minus 972
+T minus 971
+T minus 970
+T minus 969
+T minus 968
+T minus 967
+T minus 966
+T minus 965
+T minus 964
+T minus 963
+T minus 962
+T minus 961
+T minus 960
+T minus 959
+T minus 958
+T minus 957
+T minus 956
+T minus 955
+T minus 954
+T minus 953
+T minus 952
+T minus 951
+T minus 950
+T minus 949
+T minus 948
+T minus 947
+T minus 946
+T minus 945
+T minus 944
+T minus 943
+T minus 942
+T minus 941
+T minus 940
+T minus 939
+T minus 938
+T minus 937
+T minus 936
+T minus 935
+T minus 934
+T minus 933
+T minus 932
+T minus 931
+T minus 930
+T minus 929
+T minus 928
+T minus 927
+T minus 926
+T minus 925
+T minus 924
+T minus 923
+T minus 922
+T minus 921
+T minus 920
+T minus 919
+T minus 918
+T minus 917
+T minus 916
+T minus 915
+T minus 914
+T minus 913
+T minus 912
+T minus 911
+T minus 910
+T minus 909
+T minus 908
+T minus 907
+T minus 906
+T minus 905
+T minus 904
+T minus 903
+T minus 902
+T minus 901
+T minus 900
+T minus 899
+T minus 898
+T minus 897
+T minus 896
+T minus 895
+T minus 894
+T minus 893
+T minus 892
+T minus 891
+T minus 890
+T minus 889
+T minus 888
+T minus 887
+T minus 886
+T minus 885
+T minus 884
+T minus 883
+T minus 882
+T minus 881
+T minus 880
+T minus 879
+T minus 878
+T minus 877
+T minus 876
+T minus 875
+T minus 874
+T minus 873
+T minus 872
+T minus 871
+T minus 870
+T minus 869
+T minus 868
+T minus 867
+T minus 866
+T minus 865
+T minus 864
+T minus 863
+T minus 862
+T minus 861
+T minus 860
+T minus 859
+T minus 858
+T minus 857
+T minus 856
+T minus 855
+T minus 854
+T minus 853
+T minus 852
+T minus 851
+T minus 850
+T minus 849
+T minus 848
+T minus 847
+T minus 846
+T minus 845
+T minus 844
+T minus 843
+T minus 842
+T minus 841
+T minus 840
+T minus 839
+T minus 838
+T minus 837
+T minus 836
+T minus 835
+T minus 834
+T minus 833
+T minus 832
+T minus 831
+T minus 830
+T minus 829
+T minus 828
+T minus 827
+T minus 826
+T minus 825
+T minus 824
+T minus 823
+T minus 822
+T minus 821
+T minus 820
+T minus 819
+T minus 818
+T minus 817
+T minus 816
+T minus 815
+T minus 814
+T minus 813
+T minus 812
+T minus 811
+T minus 810
+T minus 809
+T minus 808
+T minus 807
+T minus 806
+T minus 805
+T minus 804
+T minus 803
+T minus 802
+T minus 801
+T minus 800
+T minus 799
+T minus 798
+T minus 797
+T minus 796
+T minus 795
+T minus 794
+T minus 793
+T minus 792
+T minus 791
+T minus 790
+T minus 789
+T minus 788
+T minus 787
+T minus 786
+T minus 785
+T minus 784
+T minus 783
+T minus 782
+T minus 781
+T minus 780
+T minus 779
+T minus 778
+T minus 777
+T minus 776
+T minus 775
+T minus 774
+T minus 773
+T minus 772
+T minus 771
+T minus 770
+T minus 769
+T minus 768
+T minus 767
+T minus 766
+T minus 765
+T minus 764
+T minus 763
+T minus 762
+T minus 761
+T minus 760
+T minus 759
+T minus 758
+T minus 757
+T minus 756
+T minus 755
+T minus 754
+T minus 753
+T minus 752
+T minus 751
+T minus 750
+T minus 749
+T minus 748
+T minus 747
+T minus 746
+T minus 745
+T minus 744
+T minus 743
+T minus 742
+T minus 741
+T minus 740
+T minus 739
+T minus 738
+T minus 737
+T minus 736
+T minus 735
+T minus 734
+T minus 733
+T minus 732
+T minus 731
+T minus 730
+T minus 729
+T minus 728
+T minus 727
+T minus 726
+T minus 725
+T minus 724
+T minus 723
+T minus 722
+T minus 721
+T minus 720
+T minus 719
+T minus 718
+T minus 717
+T minus 716
+T minus 715
+T minus 714
+T minus 713
+T minus 712
+T minus 711
+T minus 710
+T minus 709
+T minus 708
+T minus 707
+T minus 706
+T minus 705
+T minus 704
+T minus 703
+T minus 702
+T minus 701
+T minus 700
+T minus 699
+T minus 698
+T minus 697
+T minus 696
+T minus 695
+T minus 694
+T minus 693
+T minus 692
+T minus 691
+T minus 690
+T minus 689
+T minus 688
+T minus 687
+T minus 686
+T minus 685
+T minus 684
+T minus 683
+T minus 682
+T minus 681
+T minus 680
+T minus 679
+T minus 678
+T minus 677
+T minus 676
+T minus 675
+T minus 674
+T minus 673
+T minus 672
+T minus 671
+T minus 670
+T minus 669
+T minus 668
+T minus 667
+T minus 666
+T minus 665
+T minus 664
+T minus 663
+T minus 662
+T minus 661
+T minus 660
+T minus 659
+T minus 658
+T minus 657
+T minus 656
+T minus 655
+T minus 654
+T minus 653
+T minus 652
+T minus 651
+T minus 650
+T minus 649
+T minus 648
+T minus 647
+T minus 646
+T minus 645
+T minus 644
+T minus 643
+T minus 642
+T minus 641
+T minus 640
+T minus 639
+T minus 638
+T minus 637
+T minus 636
+T minus 635
+T minus 634
+T minus 633
+T minus 632
+T minus 631
+T minus 630
+T minus 629
+T minus 628
+T minus 627
+T minus 626
+T minus 625
+T minus 624
+T minus 623
+T minus 622
+T minus 621
+T minus 620
+T minus 619
+T minus 618
+T minus 617
+T minus 616
+T minus 615
+T minus 614
+T minus 613
+T minus 612
+T minus 611
+T minus 610
+T minus 609
+T minus 608
+T minus 607
+T minus 606
+T minus 605
+T minus 604
+T minus 603
+T minus 602
+T minus 601
+T minus 600
+T minus 599
+T minus 598
+T minus 597
+T minus 596
+T minus 595
+T minus 594
+T minus 593
+T minus 592
+T minus 591
+T minus 590
+T minus 589
+T minus 588
+T minus 587
+T minus 586
+T minus 585
+T minus 584
+T minus 583
+T minus 582
+T minus 581
+T minus 580
+T minus 579
+T minus 578
+T minus 577
+T minus 576
+T minus 575
+T minus 574
+T minus 573
+T minus 572
+T minus 571
+T minus 570
+T minus 569
+T minus 568
+T minus 567
+T minus 566
+T minus 565
+T minus 564
+T minus 563
+T minus 562
+T minus 561
+T minus 560
+T minus 559
+T minus 558
+T minus 557
+T minus 556
+T minus 555
+T minus 554
+T minus 553
+T minus 552
+T minus 551
+T minus 550
+T minus 549
+T minus 548
+T minus 547
+T minus 546
+T minus 545
+T minus 544
+T minus 543
+T minus 542
+T minus 541
+T minus 540
+T minus 539
+T minus 538
+T minus 537
+T minus 536
+T minus 535
+T minus 534
+T minus 533
+T minus 532
+T minus 531
+T minus 530
+T minus 529
+T minus 528
+T minus 527
+T minus 526
+T minus 525
+T minus 524
+T minus 523
+T minus 522
+T minus 521
+T minus 520
+T minus 519
+T minus 518
+T minus 517
+T minus 516
+T minus 515
+T minus 514
+T minus 513
+T minus 512
+T minus 511
+T minus 510
+T minus 509
+T minus 508
+T minus 507
+T minus 506
+T minus 505
+T minus 504
+T minus 503
+T minus 502
+T minus 501
+T minus 500
+T minus 499
+T minus 498
+T minus 497
+T minus 496
+T minus 495
+T minus 494
+T minus 493
+T minus 492
+T minus 491
+T minus 490
+T minus 489
+T minus 488
+T minus 487
+T minus 486
+T minus 485
+T minus 484
+T minus 483
+T minus 482
+T minus 481
+T minus 480
+T minus 479
+T minus 478
+T minus 477
+T minus 476
+T minus 475
+T minus 474
+T minus 473
+T minus 472
+T minus 471
+T minus 470
+T minus 469
+T minus 468
+T minus 467
+T minus 466
+T minus 465
+T minus 464
+T minus 463
+T minus 462
+T minus 461
+T minus 460
+T minus 459
+T minus 458
+T minus 457
+T minus 456
+T minus 455
+T minus 454
+T minus 453
+T minus 452
+T minus 451
+T minus 450
+T minus 449
+T minus 448
+T minus 447
+T minus 446
+T minus 445
+T minus 444
+T minus 443
+T minus 442
+T minus 441
+T minus 440
+T minus 439
+T minus 438
+T minus 437
+T minus 436
+T minus 435
+T minus 434
+T minus 433
+T minus 432
+T minus 431
+T minus 430
+T minus 429
+T minus 428
+T minus 427
+T minus 426
+T minus 425
+T minus 424
+T minus 423
+T minus 422
+T minus 421
+T minus 420
+T minus 419
+T minus 418
+T minus 417
+T minus 416
+T minus 415
+T minus 414
+T minus 413
+T minus 412
+T minus 411
+T minus 410
+T minus 409
+T minus 408
+T minus 407
+T minus 406
+T minus 405
+T minus 404
+T minus 403
+T minus 402
+T minus 401
+T minus 400
+T minus 399
+T minus 398
+T minus 397
+T minus 396
+T minus 395
+T minus 394
+T minus 393
+T minus 392
+T minus 391
+T minus 390
+T minus 389
+T minus 388
+T minus 387
+T minus 386
+T minus 385
+T minus 384
+T minus 383
+T minus 382
+T minus 381
+T minus 380
+T minus 379
+T minus 378
+T minus 377
+T minus 376
+T minus 375
+T minus 374
+T minus 373
+T minus 372
+T minus 371
+T minus 370
+T minus 369
+T minus 368
+T minus 367
+T minus 366
+T minus 365
+T minus 364
+T minus 363
+T minus 362
+T minus 361
+T minus 360
+T minus 359
+T minus 358
+T minus 357
+T minus 356
+T minus 355
+T minus 354
+T minus 353
+T minus 352
+T minus 351
+T minus 350
+T minus 349
+T minus 348
+T minus 347
+T minus 346
+T minus 345
+T minus 344
+T minus 343
+T minus 342
+T minus 341
+T minus 340
+T minus 339
+T minus 338
+T minus 337
+T minus 336
+T minus 335
+T minus 334
+T minus 333
+T minus 332
+T minus 331
+T minus 330
+T minus 329
+T minus 328
+T minus 327
+T minus 326
+T minus 325
+T minus 324
+T minus 323
+T minus 322
+T minus 321
+T minus 320
+T minus 319
+T minus 318
+T minus 317
+T minus 316
+T minus 315
+T minus 314
+T minus 313
+T minus 312
+T minus 311
+T minus 310
+T minus 309
+T minus 308
+T minus 307
+T minus 306
+T minus 305
+T minus 304
+T minus 303
+T minus 302
+T minus 301
+T minus 300
+T minus 299
+T minus 298
+T minus 297
+T minus 296
+T minus 295
+T minus 294
+T minus 293
+T minus 292
+T minus 291
+T minus 290
+T minus 289
+T minus 288
+T minus 287
+T minus 286
+T minus 285
+T minus 284
+T minus 283
+T minus 282
+T minus 281
+T minus 280
+T minus 279
+T minus 278
+T minus 277
+T minus 276
+T minus 275
+T minus 274
+T minus 273
+T minus 272
+T minus 271
+T minus 270
+T minus 269
+T minus 268
+T minus 267
+T minus 266
+T minus 265
+T minus 264
+T minus 263
+T minus 262
+T minus 261
+T minus 260
+T minus 259
+T minus 258
+T minus 257
+T minus 256
+T minus 255
+T minus 254
+T minus 253
+T minus 252
+T minus 251
+T minus 250
+T minus 249
+T minus 248
+T minus 247
+T minus 246
+T minus 245
+T minus 244
+T minus 243
+T minus 242
+T minus 241
+T minus 240
+T minus 239
+T minus 238
+T minus 237
+T minus 236
+T minus 235
+T minus 234
+T minus 233
+T minus 232
+T minus 231
+T minus 230
+T minus 229
+T minus 228
+T minus 227
+T minus 226
+T minus 225
+T minus 224
+T minus 223
+T minus 222
+T minus 221
+T minus 220
+T minus 219
+T minus 218
+T minus 217
+T minus 216
+T minus 215
+T minus 214
+T minus 213
+T minus 212
+T minus 211
+T minus 210
+T minus 209
+T minus 208
+T minus 207
+T minus 206
+T minus 205
+T minus 204
+T minus 203
+T minus 202
+T minus 201
+T minus 200
+T minus 199
+T minus 198
+T minus 197
+T minus 196
+T minus 195
+T minus 194
+T minus 193
+T minus 192
+T minus 191
+T minus 190
+T minus 189
+T minus 188
+T minus 187
+T minus 186
+T minus 185
+T minus 184
+T minus 183
+T minus 182
+T minus 181
+T minus 180
+T minus 179
+T minus 178
+T minus 177
+T minus 176
+T minus 175
+T minus 174
+T minus 173
+T minus 172
+T minus 171
+T minus 170
+T minus 169
+T minus 168
+T minus 167
+T minus 166
+T minus 165
+T minus 164
+T minus 163
+T minus 162
+T minus 161
+T minus 160
+T minus 159
+T minus 158
+T minus 157
+T minus 156
+T minus 155
+T minus 154
+T minus 153
+T minus 152
+T minus 151
+T minus 150
+T minus 149
+T minus 148
+T minus 147
+T minus 146
+T minus 145
+T minus 144
+T minus 143
+T minus 142
+T minus 141
+T minus 140
+T minus 139
+T minus 138
+T minus 137
+T minus 136
+T minus 135
+T minus 134
+T minus 133
+T minus 132
+T minus 131
+T minus 130
+T minus 129
+T minus 128
+T minus 127
+T minus 126
+T minus 125
+T minus 124
+T minus 123
+T minus 122
+T minus 121
+T minus 120
+T minus 119
+T minus 118
+T minus 117
+T minus 116
+T minus 115
+T minus 114
+T minus 113
+T minus 112
+T minus 111
+T minus 110
+T minus 109
+T minus 108
+T minus 107
+T minus 106
+T minus 105
+T minus 104
+T minus 103
+T minus 102
+T minus 101
+T minus 100
+T minus 99
+T minus 98
+T minus 97
+T minus 96
+T minus 95
+T minus 94
+T minus 93
+T minus 92
+T minus 91
+T minus 90
+T minus 89
+T minus 88
+T minus 87
+T minus 86
+T minus 85
+T minus 84
+T minus 83
+T minus 82
+T minus 81
+T minus 80
+T minus 79
+T minus 78
+T minus 77
+T minus 76
+T minus 75
+T minus 74
+T minus 73
+T minus 72
+T minus 71
+T minus 70
+T minus 69
+T minus 68
+T minus 67
+T minus 66
+T minus 65
+T minus 64
+T minus 63
+T minus 62
+T minus 61
+T minus 60
+T minus 59
+T minus 58
+T minus 57
+T minus 56
+T minus 55
+T minus 54
+T minus 53
+T minus 52
+T minus 51
+T minus 50
+T minus 49
+T minus 48
+T minus 47
+T minus 46
+T minus 45
+T minus 44
+T minus 43
+T minus 42
+T minus 41
+T minus 40
+T minus 39
+T minus 38
+T minus 37
+T minus 36
+T minus 35
+T minus 34
+T minus 33
+T minus 32
+T minus 31
+T minus 30
+T minus 29
+T minus 28
+T minus 27
+T minus 26
+T minus 25
+T minus 24
+T minus 23
+T minus 22
+T minus 21
+T minus 20
+T minus 19
+T minus 18
+T minus 17
+T minus 16
+T minus 15
+T minus 14
+T minus 13
+T minus 12
+T minus 11
+T minus 10
+T minus 9
+T minus 8
+T minus 7
+T minus 6
+T minus 5
+T minus 4
+T minus 3
+T minus 2
+T minus 1
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004hggcc -g -Wall init.c -o 
+[Ja.out*               for_1000.dSYM/       init_print*          multiply.c           prelab_credit.c      while_1000.dSYM/
+a.out.dSYM/          init*                init_print.c         multiply.dSYM/       prelab_credit.dSYM/  
+for_1000*            init.c               init_print.dSYM/     pl3.script           while_1000*          
+for_1000.c           init.dSYM/           multiply*            prelab_credit*       while_1000.c         [4A[0m[27m[24m[41Cgcc -g -Wall init.c -o[K[1Cin
+[J[A[66Cit[?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004h../init[?2004l
+The number is 1
+The number is 2
+The number is 3
+The number is 4
+The number is 5
+The number is 6
+The number is 7
+The number is 8
+The number is 9
+The number is 10
+The number is 11
+The number is 12
+The number is 13
+The number is 14
+The number is 15
+The number is 16
+The number is 17
+The number is 18
+The number is 19
+The number is 20
+The number is 21
+The number is 22
+The number is 23
+The number is 24
+The number is 25
+The number is 26
+The number is 27
+The number is 28
+The number is 29
+The number is 30
+The number is 31
+The number is 32
+The number is 33
+The number is 34
+The number is 35
+The number is 36
+The number is 37
+The number is 38
+The number is 39
+The number is 40
+The number is 41
+The number is 42
+The number is 43
+The number is 44
+The number is 45
+The number is 46
+The number is 47
+The number is 48
+The number is 49
+The number is 50
+The number is 51
+The number is 52
+The number is 53
+The number is 54
+The number is 55
+The number is 56
+The number is 57
+The number is 58
+The number is 59
+The number is 60
+The number is 61
+The number is 62
+The number is 63
+The number is 64
+The number is 65
+The number is 66
+The number is 67
+The number is 68
+The number is 69
+The number is 70
+The number is 71
+The number is 72
+The number is 73
+The number is 74
+The number is 75
+The number is 76
+The number is 77
+The number is 78
+The number is 79
+The number is 80
+The number is 81
+The number is 82
+The number is 83
+The number is 84
+The number is 85
+The number is 86
+The number is 87
+The number is 88
+The number is 89
+The number is 90
+The number is 91
+The number is 92
+The number is 93
+The number is 94
+The number is 95
+The number is 96
+The number is 97
+The number is 98
+The number is 99
+The number is 100
+The number is 101
+The number is 102
+The number is 103
+The number is 104
+The number is 105
+The number is 106
+The number is 107
+The number is 108
+The number is 109
+The number is 110
+The number is 111
+The number is 112
+The number is 113
+The number is 114
+The number is 115
+The number is 116
+The number is 117
+The number is 118
+The number is 119
+The number is 120
+The number is 121
+The number is 122
+The number is 123
+The number is 124
+The number is 125
+The number is 126
+The number is 127
+The number is 128
+The number is 129
+The number is 130
+The number is 131
+The number is 132
+The number is 133
+The number is 134
+The number is 135
+The number is 136
+The number is 137
+The number is 138
+The number is 139
+The number is 140
+The number is 141
+The number is 142
+The number is 143
+The number is 144
+The number is 145
+The number is 146
+The number is 147
+The number is 148
+The number is 149
+The number is 150
+The number is 151
+The number is 152
+The number is 153
+The number is 154
+The number is 155
+The number is 156
+The number is 157
+The number is 158
+The number is 159
+The number is 160
+The number is 161
+The number is 162
+The number is 163
+The number is 164
+The number is 165
+The number is 166
+The number is 167
+The number is 168
+The number is 169
+The number is 170
+The number is 171
+The number is 172
+The number is 173
+The number is 174
+The number is 175
+The number is 176
+The number is 177
+The number is 178
+The number is 179
+The number is 180
+The number is 181
+The number is 182
+The number is 183
+The number is 184
+The number is 185
+The number is 186
+The number is 187
+The number is 188
+The number is 189
+The number is 190
+The number is 191
+The number is 192
+The number is 193
+The number is 194
+The number is 195
+The number is 196
+The number is 197
+The number is 198
+The number is 199
+The number is 200
+The number is 201
+The number is 202
+The number is 203
+The number is 204
+The number is 205
+The number is 206
+The number is 207
+The number is 208
+The number is 209
+The number is 210
+The number is 211
+The number is 212
+The number is 213
+The number is 214
+The number is 215
+The number is 216
+The number is 217
+The number is 218
+The number is 219
+The number is 220
+The number is 221
+The number is 222
+The number is 223
+The number is 224
+The number is 225
+The number is 226
+The number is 227
+The number is 228
+The number is 229
+The number is 230
+The number is 231
+The number is 232
+The number is 233
+The number is 234
+The number is 235
+The number is 236
+The number is 237
+The number is 238
+The number is 239
+The number is 240
+The number is 241
+The number is 242
+The number is 243
+The number is 244
+The number is 245
+The number is 246
+The number is 247
+The number is 248
+The number is 249
+The number is 250
+The number is 251
+The number is 252
+The number is 253
+The number is 254
+The number is 255
+The number is 256
+The number is 257
+The number is 258
+The number is 259
+The number is 260
+The number is 261
+The number is 262
+The number is 263
+The number is 264
+The number is 265
+The number is 266
+The number is 267
+The number is 268
+The number is 269
+The number is 270
+The number is 271
+The number is 272
+The number is 273
+The number is 274
+The number is 275
+The number is 276
+The number is 277
+The number is 278
+The number is 279
+The number is 280
+The number is 281
+The number is 282
+The number is 283
+The number is 284
+The number is 285
+The number is 286
+The number is 287
+The number is 288
+The number is 289
+The number is 290
+The number is 291
+The number is 292
+The number is 293
+The number is 294
+The number is 295
+The number is 296
+The number is 297
+The number is 298
+The number is 299
+The number is 300
+The number is 301
+The number is 302
+The number is 303
+The number is 304
+The number is 305
+The number is 306
+The number is 307
+The number is 308
+The number is 309
+The number is 310
+The number is 311
+The number is 312
+The number is 313
+The number is 314
+The number is 315
+The number is 316
+The number is 317
+The number is 318
+The number is 319
+The number is 320
+The number is 321
+The number is 322
+The number is 323
+The number is 324
+The number is 325
+The number is 326
+The number is 327
+The number is 328
+The number is 329
+The number is 330
+The number is 331
+The number is 332
+The number is 333
+The number is 334
+The number is 335
+The number is 336
+The number is 337
+The number is 338
+The number is 339
+The number is 340
+The number is 341
+The number is 342
+The number is 343
+The number is 344
+The number is 345
+The number is 346
+The number is 347
+The number is 348
+The number is 349
+The number is 350
+The number is 351
+The number is 352
+The number is 353
+The number is 354
+The number is 355
+The number is 356
+The number is 357
+The number is 358
+The number is 359
+The number is 360
+The number is 361
+The number is 362
+The number is 363
+The number is 364
+The number is 365
+The number is 366
+The number is 367
+The number is 368
+The number is 369
+The number is 370
+The number is 371
+The number is 372
+The number is 373
+The number is 374
+The number is 375
+The number is 376
+The number is 377
+The number is 378
+The number is 379
+The number is 380
+The number is 381
+The number is 382
+The number is 383
+The number is 384
+The number is 385
+The number is 386
+The number is 387
+The number is 388
+The number is 389
+The number is 390
+The number is 391
+The number is 392
+The number is 393
+The number is 394
+The number is 395
+The number is 396
+The number is 397
+The number is 398
+The number is 399
+The number is 400
+The number is 401
+The number is 402
+The number is 403
+The number is 404
+The number is 405
+The number is 406
+The number is 407
+The number is 408
+The number is 409
+The number is 410
+The number is 411
+The number is 412
+The number is 413
+The number is 414
+The number is 415
+The number is 416
+The number is 417
+The number is 418
+The number is 419
+The number is 420
+The number is 421
+The number is 422
+The number is 423
+The number is 424
+The number is 425
+The number is 426
+The number is 427
+The number is 428
+The number is 429
+The number is 430
+The number is 431
+The number is 432
+The number is 433
+The number is 434
+The number is 435
+The number is 436
+The number is 437
+The number is 438
+The number is 439
+The number is 440
+The number is 441
+The number is 442
+The number is 443
+The number is 444
+The number is 445
+The number is 446
+The number is 447
+The number is 448
+The number is 449
+The number is 450
+The number is 451
+The number is 452
+The number is 453
+The number is 454
+The number is 455
+The number is 456
+The number is 457
+The number is 458
+The number is 459
+The number is 460
+The number is 461
+The number is 462
+The number is 463
+The number is 464
+The number is 465
+The number is 466
+The number is 467
+The number is 468
+The number is 469
+The number is 470
+The number is 471
+The number is 472
+The number is 473
+The number is 474
+The number is 475
+The number is 476
+The number is 477
+The number is 478
+The number is 479
+The number is 480
+The number is 481
+The number is 482
+The number is 483
+The number is 484
+The number is 485
+The number is 486
+The number is 487
+The number is 488
+The number is 489
+The number is 490
+The number is 491
+The number is 492
+The number is 493
+The number is 494
+The number is 495
+The number is 496
+The number is 497
+The number is 498
+The number is 499
+The number is 500
+The number is 501
+The number is 502
+The number is 503
+The number is 504
+The number is 505
+The number is 506
+The number is 507
+The number is 508
+The number is 509
+The number is 510
+The number is 511
+The number is 512
+The number is 513
+The number is 514
+The number is 515
+The number is 516
+The number is 517
+The number is 518
+The number is 519
+The number is 520
+The number is 521
+The number is 522
+The number is 523
+The number is 524
+The number is 525
+The number is 526
+The number is 527
+The number is 528
+The number is 529
+The number is 530
+The number is 531
+The number is 532
+The number is 533
+The number is 534
+The number is 535
+The number is 536
+The number is 537
+The number is 538
+The number is 539
+The number is 540
+The number is 541
+The number is 542
+The number is 543
+The number is 544
+The number is 545
+The number is 546
+The number is 547
+The number is 548
+The number is 549
+The number is 550
+The number is 551
+The number is 552
+The number is 553
+The number is 554
+The number is 555
+The number is 556
+The number is 557
+The number is 558
+The number is 559
+The number is 560
+The number is 561
+The number is 562
+The number is 563
+The number is 564
+The number is 565
+The number is 566
+The number is 567
+The number is 568
+The number is 569
+The number is 570
+The number is 571
+The number is 572
+The number is 573
+The number is 574
+The number is 575
+The number is 576
+The number is 577
+The number is 578
+The number is 579
+The number is 580
+The number is 581
+The number is 582
+The number is 583
+The number is 584
+The number is 585
+The number is 586
+The number is 587
+The number is 588
+The number is 589
+The number is 590
+The number is 591
+The number is 592
+The number is 593
+The number is 594
+The number is 595
+The number is 596
+The number is 597
+The number is 598
+The number is 599
+The number is 600
+The number is 601
+The number is 602
+The number is 603
+The number is 604
+The number is 605
+The number is 606
+The number is 607
+The number is 608
+The number is 609
+The number is 610
+The number is 611
+The number is 612
+The number is 613
+The number is 614
+The number is 615
+The number is 616
+The number is 617
+The number is 618
+The number is 619
+The number is 620
+The number is 621
+The number is 622
+The number is 623
+The number is 624
+The number is 625
+The number is 626
+The number is 627
+The number is 628
+The number is 629
+The number is 630
+The number is 631
+The number is 632
+The number is 633
+The number is 634
+The number is 635
+The number is 636
+The number is 637
+The number is 638
+The number is 639
+The number is 640
+The number is 641
+The number is 642
+The number is 643
+The number is 644
+The number is 645
+The number is 646
+The number is 647
+The number is 648
+The number is 649
+The number is 650
+The number is 651
+The number is 652
+The number is 653
+The number is 654
+The number is 655
+The number is 656
+The number is 657
+The number is 658
+The number is 659
+The number is 660
+The number is 661
+The number is 662
+The number is 663
+The number is 664
+The number is 665
+The number is 666
+The number is 667
+The number is 668
+The number is 669
+The number is 670
+The number is 671
+The number is 672
+The number is 673
+The number is 674
+The number is 675
+The number is 676
+The number is 677
+The number is 678
+The number is 679
+The number is 680
+The number is 681
+The number is 682
+The number is 683
+The number is 684
+The number is 685
+The number is 686
+The number is 687
+The number is 688
+The number is 689
+The number is 690
+The number is 691
+The number is 692
+The number is 693
+The number is 694
+The number is 695
+The number is 696
+The number is 697
+The number is 698
+The number is 699
+The number is 700
+The number is 701
+The number is 702
+The number is 703
+The number is 704
+The number is 705
+The number is 706
+The number is 707
+The number is 708
+The number is 709
+The number is 710
+The number is 711
+The number is 712
+The number is 713
+The number is 714
+The number is 715
+The number is 716
+The number is 717
+The number is 718
+The number is 719
+The number is 720
+The number is 721
+The number is 722
+The number is 723
+The number is 724
+The number is 725
+The number is 726
+The number is 727
+The number is 728
+The number is 729
+The number is 730
+The number is 731
+The number is 732
+The number is 733
+The number is 734
+The number is 735
+The number is 736
+The number is 737
+The number is 738
+The number is 739
+The number is 740
+The number is 741
+The number is 742
+The number is 743
+The number is 744
+The number is 745
+The number is 746
+The number is 747
+The number is 748
+The number is 749
+The number is 750
+The number is 751
+The number is 752
+The number is 753
+The number is 754
+The number is 755
+The number is 756
+The number is 757
+The number is 758
+The number is 759
+The number is 760
+The number is 761
+The number is 762
+The number is 763
+The number is 764
+The number is 765
+The number is 766
+The number is 767
+The number is 768
+The number is 769
+The number is 770
+The number is 771
+The number is 772
+The number is 773
+The number is 774
+The number is 775
+The number is 776
+The number is 777
+The number is 778
+The number is 779
+The number is 780
+The number is 781
+The number is 782
+The number is 783
+The number is 784
+The number is 785
+The number is 786
+The number is 787
+The number is 788
+The number is 789
+The number is 790
+The number is 791
+The number is 792
+The number is 793
+The number is 794
+The number is 795
+The number is 796
+The number is 797
+The number is 798
+The number is 799
+The number is 800
+The number is 801
+The number is 802
+The number is 803
+The number is 804
+The number is 805
+The number is 806
+The number is 807
+The number is 808
+The number is 809
+The number is 810
+The number is 811
+The number is 812
+The number is 813
+The number is 814
+The number is 815
+The number is 816
+The number is 817
+The number is 818
+The number is 819
+The number is 820
+The number is 821
+The number is 822
+The number is 823
+The number is 824
+The number is 825
+The number is 826
+The number is 827
+The number is 828
+The number is 829
+The number is 830
+The number is 831
+The number is 832
+The number is 833
+The number is 834
+The number is 835
+The number is 836
+The number is 837
+The number is 838
+The number is 839
+The number is 840
+The number is 841
+The number is 842
+The number is 843
+The number is 844
+The number is 845
+The number is 846
+The number is 847
+The number is 848
+The number is 849
+The number is 850
+The number is 851
+The number is 852
+The number is 853
+The number is 854
+The number is 855
+The number is 856
+The number is 857
+The number is 858
+The number is 859
+The number is 860
+The number is 861
+The number is 862
+The number is 863
+The number is 864
+The number is 865
+The number is 866
+The number is 867
+The number is 868
+The number is 869
+The number is 870
+The number is 871
+The number is 872
+The number is 873
+The number is 874
+The number is 875
+The number is 876
+The number is 877
+The number is 878
+The number is 879
+The number is 880
+The number is 881
+The number is 882
+The number is 883
+The number is 884
+The number is 885
+The number is 886
+The number is 887
+The number is 888
+The number is 889
+The number is 890
+The number is 891
+The number is 892
+The number is 893
+The number is 894
+The number is 895
+The number is 896
+The number is 897
+The number is 898
+The number is 899
+The number is 900
+The number is 901
+The number is 902
+The number is 903
+The number is 904
+The number is 905
+The number is 906
+The number is 907
+The number is 908
+The number is 909
+The number is 910
+The number is 911
+The number is 912
+The number is 913
+The number is 914
+The number is 915
+The number is 916
+The number is 917
+The number is 918
+The number is 919
+The number is 920
+The number is 921
+The number is 922
+The number is 923
+The number is 924
+The number is 925
+The number is 926
+The number is 927
+The number is 928
+The number is 929
+The number is 930
+The number is 931
+The number is 932
+The number is 933
+The number is 934
+The number is 935
+The number is 936
+The number is 937
+The number is 938
+The number is 939
+The number is 940
+The number is 941
+The number is 942
+The number is 943
+The number is 944
+The number is 945
+The number is 946
+The number is 947
+The number is 948
+The number is 949
+The number is 950
+The number is 951
+The number is 952
+The number is 953
+The number is 954
+The number is 955
+The number is 956
+The number is 957
+The number is 958
+The number is 959
+The number is 960
+The number is 961
+The number is 962
+The number is 963
+The number is 964
+The number is 965
+The number is 966
+The number is 967
+The number is 968
+The number is 969
+The number is 970
+The number is 971
+The number is 972
+The number is 973
+The number is 974
+The number is 975
+The number is 976
+The number is 977
+The number is 978
+The number is 979
+The number is 980
+The number is 981
+The number is 982
+The number is 983
+The number is 984
+The number is 985
+The number is 986
+The number is 987
+The number is 988
+The number is 989
+The number is 990
+The number is 991
+The number is 992
+The number is 993
+The number is 994
+The number is 995
+The number is 996
+The number is 997
+The number is 998
+The number is 999
+The number is 1000
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004hggcc -g -w Wall init_print.c -o p init_r print[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004h../init_print[?2004l
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+557
+558
+559
+560
+561
+562
+563
+564
+565
+566
+567
+568
+569
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+590
+591
+592
+593
+594
+595
+596
+597
+598
+599
+600
+601
+602
+603
+604
+605
+606
+607
+608
+609
+610
+611
+612
+613
+614
+615
+616
+617
+618
+619
+620
+621
+622
+623
+624
+625
+626
+627
+628
+629
+630
+631
+632
+633
+634
+635
+636
+637
+638
+639
+640
+641
+642
+643
+644
+645
+646
+647
+648
+649
+650
+651
+652
+653
+654
+655
+656
+657
+658
+659
+660
+661
+662
+663
+664
+665
+666
+667
+668
+669
+670
+671
+672
+673
+674
+675
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+686
+687
+688
+689
+690
+691
+692
+693
+694
+695
+696
+697
+698
+699
+700
+701
+702
+703
+704
+705
+706
+707
+708
+709
+710
+711
+712
+713
+714
+715
+716
+717
+718
+719
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+733
+734
+735
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+775
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+790
+791
+792
+793
+794
+795
+796
+797
+798
+799
+800
+801
+802
+803
+804
+805
+806
+807
+808
+809
+810
+811
+812
+813
+814
+815
+816
+817
+818
+819
+820
+821
+822
+823
+824
+825
+826
+827
+828
+829
+830
+831
+832
+833
+834
+835
+836
+837
+838
+839
+840
+841
+842
+843
+844
+845
+846
+847
+848
+849
+850
+851
+852
+853
+854
+855
+856
+857
+858
+859
+860
+861
+862
+863
+864
+865
+866
+867
+868
+869
+870
+871
+872
+873
+874
+875
+876
+877
+878
+879
+880
+881
+882
+883
+884
+885
+886
+887
+888
+889
+890
+891
+892
+893
+894
+895
+896
+897
+898
+899
+900
+901
+902
+903
+904
+905
+906
+907
+908
+909
+910
+911
+912
+913
+914
+915
+916
+917
+918
+919
+920
+921
+922
+923
+924
+925
+926
+927
+928
+929
+930
+931
+932
+933
+934
+935
+936
+937
+938
+939
+940
+941
+942
+943
+944
+945
+946
+947
+948
+949
+950
+951
+952
+953
+954
+955
+956
+957
+958
+959
+960
+961
+962
+963
+964
+965
+966
+967
+968
+969
+970
+971
+972
+973
+974
+975
+976
+977
+978
+979
+980
+981
+982
+983
+984
+985
+986
+987
+988
+989
+990
+991
+992
+993
+994
+995
+996
+997
+998
+999
+1000
+zsh: abort      ./init_print
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004hggcc -g -Wall prelab_credit.c -o prelab_credit[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004h.... ./ prelab_credit[1C[P[13C [14D[?2004l
+card[0] = 4
+card[1] = 0
+card[2] = 1
+card[3] = 2
+card[4] = 8
+card[5] = 8
+card[6] = 8
+card[7] = 8
+card[8] = 8
+card[9] = 8
+card[10] = 8
+card[11] = 8
+card[12] = 1
+card[13] = 8
+card[14] = 8
+card[15] = 1
+The card is valid 
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004h./prelab_credit[15Dgcc -g -Wall prelab_credit.c -o prelab_credit[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004hgcc -g -Wall prelab_credit.c -o prelab_credit[45D./[11P[13C                              [30D[?2004l
+card[0] = 4
+card[1] = 0
+card[2] = 1
+card[3] = 2
+card[4] = 8
+card[5] = 8
+card[6] = 8
+card[7] = 8
+card[8] = 8
+card[9] = 8
+card[10] = 8
+card[11] = 8
+card[12] = 1
+card[13] = 8
+card[14] = 8
+card[15] = 2
+The card is invalid 
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004hggcc -g -Wall multiply.c -o muli tiply[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004h../, multiply[?2004l
+Enter a starting integer: 3
+Enter the end number: 7
+The fractorial is: 2520
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004h./multiply[?2004l
+Enter a starting integer: 19
+Enter the end number: 18
+The fractorial is: 342
+[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004hcclear[?2004l
+[H[2J[3J[1m[7m%[27m[1m[0m                                                                                                                               [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air prelab3 % [K[?2004heeie exit[?2004l
+
+Script done on Tue Oct 17 23:25:53 2023
