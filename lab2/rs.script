@@ -1,0 +1,180 @@
+Script started on Mon Oct  9 14:55:51 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab2 % [K[?2004hggcc -g -Wall rock-spock.c - o rock-spock[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab2 % [K[?2004h../rock-spock[?2004l
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: r
+Player's play is ROCK
+Computer's play is SPOCK
+Spock vaporizes rock 
+The winner is: Computer! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: p [ p
+Player's play is PAPER
+Computer's play is ROCK
+Paper covers rock 
+The winner is: Player! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: s
+Player's play is SCISSORS
+Computer's play is ROCK
+Rock crushes scissors 
+The winner is: Computer! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: l
+Player's play is LIZARD
+Computer's play is SPOCK
+Lizard poisons spock 
+The winner is: Player! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: v
+Player's play is SPOCK
+Computer's play is SPOCK
+It's a draw. 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: r
+Player's play is ROCK
+Computer's play is SPOCK
+Spock vaporizes rock 
+The winner is: Computer! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: P
+Player's play is PAPER
+Computer's play is PAPER
+It's a draw. 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: s S
+Player's play is SCISSORS
+Computer's play is LIZARD
+Scissors decapitate lizard 
+The winner is: Player! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: : L
+Player's play is LIZARD
+Computer's play is PAPER
+Lizard eats paper 
+The winner is: Player! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: V
+Player's play is SPOCK
+Computer's play is ROCK
+Spock vaporizes rock 
+The winner is: Player! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: S
+Player's play is SCISSORS
+Computer's play is SPOCK
+Spock smashes scissors 
+The winner is: Computer! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: P
+Player's play is PAPER
+Computer's play is ROCK
+Paper covers rock 
+The winner is: Player! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: V
+Player's play is SPOCK
+Computer's play is PAPER
+Paper disproves spock 
+The winner is: Computer! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: R
+Player's play is ROCK
+Computer's play is PAPER
+Paper covers rock 
+The winner is: Computer! 
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: q
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab2 % [K[?2004heexit[?2004l
+
+Script done on Mon Oct  9 14:57:59 2023

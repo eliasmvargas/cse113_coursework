@@ -1,0 +1,7 @@
+In this lab I really learned the properties of switch statements and nested functions. That sort of stuff, it's really quite powerful. I also learned how to create and compile code with several files, header and object files.
+
+I encountered some problems in the flight time program, the inequalities were difficult to set up. Thought it wasn't too bad. I also ran into problems with function prototyping at first in the header file for the geometry calculator file.
+
+Bugs: When giving the rock-spock an input of more than a single character, it does weird things. 
+
+Improvements: Fixing rock-spock input to handle inputs of more than 1 character.

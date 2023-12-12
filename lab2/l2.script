@@ -1,0 +1,48 @@
+Script started on Mon Oct  9 15:31:29 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab2 % [K[?2004hggcc -g -Wall l2.c -o .      ab2.c -o lab2[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab2 % [K[?2004h../lab2[?2004l
+Welcome to the Daffy Duck geometry calculator! 
+ Menu:
+ A. Angles 
+ C. Circle 
+ N. N-Sided Polygon Area 
+ R. Rectangle 
+ T. Triangle 
+ Any other character to exit:a a
+Menu: 
+ E. External Angle 
+ I. Interior Angle 
+e
+Enter the number of sides: 20
+The exterior angles are: 18.000000 degrees 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab2 % [K[?2004h../lab2[?2004l
+Welcome to the Daffy Duck geometry calculator! 
+ Menu:
+ A. Angles 
+ C. Circle 
+ N. N-Sided Polygon Area 
+ R. Rectangle 
+ T. Triangle 
+ Any other character to exit:n
+Enter the number of sides: 2 5
+Side lengths: 20
+The area of the regular polygon is: 688.190860 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab2 % [K[?2004h./lab2[?2004l
+Welcome to the Daffy Duck geometry calculator! 
+ Menu:
+ A. Angles 
+ C. Circle 
+ N. N-Sided Polygon Area 
+ R. Rectangle 
+ T. Triangle 
+ Any other character to exit:r t
+Menu: 
+ H. Hypotenuse 
+ P. Perimeter 
+h p
+Enter side 1 of a triangle: 20
+Enter side 2: 30
+The perimeter is: 86.055513 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab2 % [K[?2004heexit[?2004l
+
+Script done on Mon Oct  9 15:32:50 2023
