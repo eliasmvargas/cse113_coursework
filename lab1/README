@@ -1,0 +1,3 @@
+This program is designed to quickly compute geometric functions. It includes rectangle area and perimeter, triangle area, hypotenuse & perimeter, circle area and circumference, interior and exterior angles of a polygon, and the area of a regular polygon. 
+
+It very simply uses scanf to take in user data, assigns variables, and plugs them into the various formulas. 

@@ -1,0 +1,129 @@
+Script started on Wed Sep 20 21:01:46 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004hexit./lab1    .  ggcc -gc  - W Wall -lm lab1.c -p  0  o lab1[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h.... ./lab1[?2004l
+What function would you like to use? 
+ 1. Rectangle area 
+ 2. Rectangle perimeter 
+ 3. Circle area 
+ 4. Circle Circumference 
+ 5. Triangle Hypotenuse 
+ 6. Triangle perimeter 
+ 7. Exterior angle 
+ 8. Interior angle 
+ 9. N-Sided Polygon Area.1
+Enter the length of a rectangle: 5
+Enter the width: 4
+The area is: 20.000000 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h../lab[?2004l
+zsh: no such file or directory: ./lab
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h./lab1[?2004l
+What function would you like to use? 
+ 1. Rectangle area 
+ 2. Rectangle perimeter 
+ 3. Circle area 
+ 4. Circle Circumference 
+ 5. Triangle Hypotenuse 
+ 6. Triangle perimeter 
+ 7. Exterior angle 
+ 8. Interior angle 
+ 9. N-Sided Polygon Area.2
+Enter the length of a rectangle: 5
+Enter the width: 4
+The perimeter is: 18 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h./lab1[?2004l
+What function would you like to use? 
+ 1. Rectangle area 
+ 2. Rectangle perimeter 
+ 3. Circle area 
+ 4. Circle Circumference 
+ 5. Triangle Hypotenuse 
+ 6. Triangle perimeter 
+ 7. Exterior angle 
+ 8. Interior angle 
+ 9. N-Sided Polygon Area.3
+Enter the radius of a circle  7
+The area is: 153.938057 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h./lab1[?2004l
+What function would you like to use? 
+ 1. Rectangle area 
+ 2. Rectangle perimeter 
+ 3. Circle area 
+ 4. Circle Circumference 
+ 5. Triangle Hypotenuse 
+ 6. Triangle perimeter 
+ 7. Exterior angle 
+ 8. Interior angle 
+ 9. N-Sided Polygon Area.4
+Enter the radius of a circle  2
+The circumference is 12.566372 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h./lab1[?2004l
+What function would you like to use? 
+ 1. Rectangle area 
+ 2. Rectangle perimeter 
+ 3. Circle area 
+ 4. Circle Circumference 
+ 5. Triangle Hypotenuse 
+ 6. Triangle perimeter 
+ 7. Exterior angle 
+ 8. Interior angle 
+ 9. N-Sided Polygon Area.5
+Enter side 1 of a triangle: 5
+Enter side 2: 4
+The hypotenuse is: 6.403124 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h./lab1[?2004l
+What function would you like to use? 
+ 1. Rectangle area 
+ 2. Rectangle perimeter 
+ 3. Circle area 
+ 4. Circle Circumference 
+ 5. Triangle Hypotenuse 
+ 6. Triangle perimeter 
+ 7. Exterior angle 
+ 8. Interior angle 
+ 9. N-Sided Polygon Area.6
+Enter side 1 of a triangle: 68 
+Enter side 2: 8
+The perimeter is: 24.000000 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h./lab1[?2004l
+What function would you like to use? 
+ 1. Rectangle area 
+ 2. Rectangle perimeter 
+ 3. Circle area 
+ 4. Circle Circumference 
+ 5. Triangle Hypotenuse 
+ 6. Triangle perimeter 
+ 7. Exterior angle 
+ 8. Interior angle 
+ 9. N-Sided Polygon Area.7
+Enter the number of sides: 5
+The exterior angles are: 72.000000 degrees 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h./lab1[?2004l
+What function would you like to use? 
+ 1. Rectangle area 
+ 2. Rectangle perimeter 
+ 3. Circle area 
+ 4. Circle Circumference 
+ 5. Triangle Hypotenuse 
+ 6. Triangle perimeter 
+ 7. Exterior angle 
+ 8. Interior angle 
+ 9. N-Sided Polygon Area.8
+Enter the number of sides: 4
+The interior angles are: 90.000000 degrees 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004h./lab1[?2004l
+What function would you like to use? 
+ 1. Rectangle area 
+ 2. Rectangle perimeter 
+ 3. Circle area 
+ 4. Circle Circumference 
+ 5. Triangle Hypotenuse 
+ 6. Triangle perimeter 
+ 7. Exterior angle 
+ 8. Interior angle 
+ 9. N-Sided Polygon Area.9
+Enter the apothem: 4 9
+Enter the perimeter: 23
+The area of the normal polygon is: 103.500000 
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                 [0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air lab1 % [K[?2004heexit[?2004l
+
+Script done on Wed Sep 20 21:03:02 2023
