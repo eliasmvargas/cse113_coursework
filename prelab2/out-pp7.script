@@ -1,0 +1,22 @@
+Script started on Sat Sep  9 11:28:52 2023
+Restored session: Sat Sep  9 11:28:13 MDT 2023
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Eliass-MacBook-Air.local/Users/eliasvargas/desktop/CSE%20113/pp7[0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air pp7 % [K[?2004hlls[?2004l
+Test		backup.c	out-ex11.script	pp1		pp7.c.dSYM
+Test.dSYM	ex11		out-pp1.script	pp1.c		prelab2_debug.c
+backup copy.c	ex11.c		out-pp7.script	pp7
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Eliass-MacBook-Air.local/Users/eliasvargas/desktop/CSE%20113/pp7[0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air pp7 % [K[?2004hggcc-  -g -Wlal    all - backup.c  -o Pp  pp7.c[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Eliass-MacBook-Air.local/Users/eliasvargas/desktop/CSE%20113/pp7[0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air pp7 % [K[?2004h..\. ./pp7.c[?2004l
+Enter integers (you will be prompted 4 times): 
+1
+2
+7
+4
+Max     :   7
+Min     :   1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Eliass-MacBook-Air.local/Users/eliasvargas/desktop/CSE%20113/pp7[0m[27m[24m[Jeliasvargas@Eliass-MacBook-Air pp7 % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat Sep  9 11:29:23 2023

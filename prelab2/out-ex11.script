@@ -1,0 +1,9 @@
+Script started on 2023-09-01 15:21:54-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="70" LINES="35"]
+[?2004h]0;jhunter@DESKTOP-6GKD3R1: ~/CSE113/prelab2[01;32mjhunter@DESKTOP-6GKD3R1[00m:[01;34m~/CSE113/prelab2[00m$ gcc -g -Wall ex11.c -o ex11
+[?2004l.[?2004h]0;jhunter@DESKTOP-6GKD3R1: ~/CSE113/prelab2[01;32mjhunter@DESKTOP-6GKD3R1[00m:[01;34m~/CSE113/prelab2[00m$ ./ex11
+[?2004lEnter an area code: 470
+Atlanta
+[?2004h]0;jhunter@DESKTOP-6GKD3R1: ~/CSE113/prelab2[01;32mjhunter@DESKTOP-6GKD3R1[00m:[01;34m~/CSE113/prelab2[00m$ exit
+[?2004lexit
+
+Script done on 2023-09-01 15:22:23-06:00 [COMMAND_EXIT_CODE="0"]

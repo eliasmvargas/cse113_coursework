@@ -1,0 +1,9 @@
+Script started on 2023-09-01 15:40:04-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="70" LINES="35"]
+[?2004h]0;jhunter@DESKTOP-6GKD3R1: ~/CSE113/prelab2[01;32mjhunter@DESKTOP-6GKD3R1[00m:[01;34m~/CSE113/prelab2[00m$ gcc -g -Wall pp12[K.c -o pp1
+[?2004l[?2004h]0;jhunter@DESKTOP-6GKD3R1: ~/CSE113/prelab2[01;32mjhunter@DESKTOP-6GKD3R1[00m:[01;34m~/CSE113/prelab2[00m$ ./pp1
+[?2004lEnter a number: 
+693
+3 digits[?2004h]0;jhunter@DESKTOP-6GKD3R1: ~/CSE113/prelab2[01;32mjhunter@DESKTOP-6GKD3R1[00m:[01;34m~/CSE113/prelab2[00m$ exit
+[?2004lexit
+
+Script done on 2023-09-01 15:40:24-06:00 [COMMAND_EXIT_CODE="0"]
