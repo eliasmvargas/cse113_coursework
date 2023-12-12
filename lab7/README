@@ -12,5 +12,5 @@ This lab experiments with pointers and strings, and implementing algorithms on s
 than in languages where there is a defined "str" type. They are implemented by using an array of characters, either with
 bracket notation or with pointers.
 
-Conclusion:
+CONCLUSION:
 This lab helped me get a much better grasp on pointers.
