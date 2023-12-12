@@ -1,19 +1,16 @@
 
+NOTICE TO GRADER!!:
 
-NOTICE!!:
-
-Ely specifically said for this lab that we don't actually need to malloc anything
+[PROFESSOR] specifically said for this lab that we don't actually need to malloc anything
 because we already have an allocated size for the array.
 So no need for two different script files, or for freeing in general.
 
-da.out file is in a script file rather than redirection, could not find information on how to redirect with leaks for mac m1.
+da.out file is in a script file rather than redirection, I could not find information on how to redirect with leaks for mac m1.
 
-Purpose:
-This lab essentially deals with pointers and malloc, and how to use them to do interesting operations to strings of things.
+PURPOSE:
+This lab experiments with pointers and strings, and implementing algorithms on said strings. In C, strings are different
+than in languages where there is a defined "str" type. They are implemented by using an array of characters, either with
+bracket notation or with pointers.
 
 Conclusion:
-I learned how to malloc things properly and how powerful a tool it is. I also think I understand pointers much better now.
-The pair programming helped a lot.
-Not really any major problems.
-I'm not aware of any bugs.
-I think for the scope of this lab no improvements need to be made.
+This lab helped me get a much better grasp on pointers.
