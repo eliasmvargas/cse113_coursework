@@ -11,3 +11,6 @@ control structures including selection, iteration and recursion; number systems;
 representation; data types including arrays, strings, pointers and dynamic structures
 involving memory management. Concepts implemented through extensive programming
 using good programming style."
+
+NOTE: Not all prelabs are in this repository. Prelabs were pair-programming assignments, 
+and the missing prelabs are simply on one of my partner's computers.
