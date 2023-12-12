@@ -1,0 +1,16 @@
+PURPOSE:
+This project is an attempt to recreate Conway's game of life simulation in the C programming language.
+This is my first time using command line arguments within my program.
+
+The bulk of this code works with a manually allocated 2d array, which caused for some difficult challenges.
+
+TODO:
+It is considered bad practice to define global variables. I will work on implementing a more streamlined solution.
+I have yet to implement the feature to import .lif files in both the 1.05 and 1.06 formats.
+
+BUGS: 
+This program contains significant memory leaks. I am currently working on implementing a better system here to
+manage memory.
+
+
+
