@@ -1,3 +1,11 @@
-Purpose: The purpose of this lab is to experiment with debugging and following lines of logical operators.
-Conclusion: I learned that GDB is kind of finicky but it's pretty useful for recursive call functions. The pair programming was pretty helpful as usual, but I'm introverted so..
+PURPOSE:
+
+The purpose of this lab is to experiment with debugging and following lines of logical operators.
+
+Conclusion: 
+
+I learned that GDB is kind of finicky but it's pretty useful for recursive call functions. The pair programming was pretty helpful as usual, but I'm introverted so..
 Just getting used to GDB was pretty tricky at first. No bugs AFAIK. There's not really anything to add to this code.
+
+NOTE: Up till this point, from lab0 - lab3, I mistakenly included the object file in the top of my code files.
+This caused compilation errors.
