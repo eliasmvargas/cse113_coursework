@@ -1,0 +1,297 @@
+Benjamin Sanchez
+Elias Vargas
+Prelab 0
+August 21 2023
+
+
+Script started on Mon Aug 21 15:50:22 2023
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://The-Dingus-Book.local/Users/eliasvargas/desktop/CSE%20113/prelab0
+[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004h../ham ngman[?2004l
+
+Welcome to Hang-Man!
+This is a two-player game.
+Player One chooses a word and Player Two has to guess the word.
+Player Two gets 6 incorrect guesses before it is game over and their Hang-Man is completed.
+Please enter a valid word of less than 100 letters: a-z or A-Z
+a
+[H[2JPlease enter a valid letter: a-z or A-Z
+b
+Incorrect!
+Letters Guessed: _
+
+	||===== 
+	||    | 
+	||    O 
+	||      
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+b c
+Incorrect!
+Letters Guessed: _
+
+	||===== 
+	||    | 
+	||   \O 
+	||      
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+b
+Incorrect!
+Letters Guessed: _
+
+	||===== 
+	||    | 
+	||   \O/
+	||      
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+d
+Incorrect!
+Letters Guessed: _
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+f
+Incorrect!
+Letters Guessed: _
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||     \
+	||      
+Please enter a valid letter: a-z or A-Z
+g
+Incorrect!
+Letters Guessed: _
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||   / \
+	||      
+Oh no, you ran out of guesses! Better luck next time!
+Would you like to play again? Y or N: h Y
+[H[2JPlease enter a valid word of less than 100 letters: a-z or A-Z
+Hello
+[H[2JPlease enter a valid letter: a-z or A-Z
+e
+Correct!
+Letters Guessed: _e___
+
+Please enter a valid letter: a-z or A-Z
+n
+Incorrect!
+Letters Guessed: _e___
+
+	||===== 
+	||    | 
+	||   \O 
+	||      
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+a
+Incorrect!
+Letters Guessed: _e___
+
+	||===== 
+	||    | 
+	||   \O/
+	||      
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+i
+Incorrect!
+Letters Guessed: _e___
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+s
+Incorrect!
+Letters Guessed: _e___
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||     \
+	||      
+Please enter a valid letter: a-z or A-Z
+m
+Incorrect!
+Letters Guessed: _e___
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||   / \
+	||      
+Oh no, you ran out of guesses! Better luck next time!
+Would you like to play again? Y or N: Y
+[H[2JPlease enter a valid word of less than 100 letters: a-z or A-Z
+apple
+[H[2JPlease enter a valid letter: a-z or A-Z
+a[ 
+Correct!
+Letters Guessed: a____
+
+Please enter a valid letter: a-z or A-Z
+b
+Incorrect!
+Letters Guessed: a____
+
+	||===== 
+	||    | 
+	||   \O 
+	||      
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+l
+Correct!
+Letters Guessed: a__l_
+
+Please enter a valid letter: a-z or A-Z
+o
+Incorrect!
+Letters Guessed: a__l_
+
+	||===== 
+	||    | 
+	||   \O/
+	||      
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+i
+Incorrect!
+Letters Guessed: a__l_
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+h
+Incorrect!
+Letters Guessed: a__l_
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||     \
+	||      
+Please enter a valid letter: a-z or A-Z
+h
+Incorrect!
+Letters Guessed: a__l_
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||   / \
+	||      
+Oh no, you ran out of guesses! Better luck next time!
+Would you like to play again? Y or N: p
+Would you like to play again? Y or N: Y
+[H[2JPlease enter a valid word of less than 100 letters: a-z or A-Z
+Banana
+[H[2JPlease enter a valid letter: a-z or A-Z
+e
+Incorrect!
+Letters Guessed: ______
+
+	||===== 
+	||    | 
+	||   \O 
+	||      
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+s
+Incorrect!
+Letters Guessed: ______
+
+	||===== 
+	||    | 
+	||   \O/
+	||      
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+a
+Correct!
+Letters Guessed: _a_a_a
+
+Please enter a valid letter: a-z or A-Z
+h
+Incorrect!
+Letters Guessed: _a_a_a
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||      
+	||      
+Please enter a valid letter: a-z or A-Z
+b
+Incorrect!
+Letters Guessed: _a_a_a
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||     \
+	||      
+Please enter a valid letter: a-z or A-Z
+B
+Incorrect!
+Letters Guessed: _a_a_a
+
+	||===== 
+	||    | 
+	||   \O/
+	||    | 
+	||   / \
+	||      
+Oh no, you ran out of guesses! Better luck next time!
+Would you like to play again? Y or N: n N
+Have a good day!
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://The-Dingus-Book.local/Users/eliasvargas/desktop/CSE%20113/prelab0
+[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004hEE\E  eexig t[?2004l
+
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Mon Aug 21 15:57:46 2023
