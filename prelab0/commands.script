@@ -1,0 +1,43 @@
+Script started on Mon Aug 21 15:20:24 2023
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004hmmkdir prela      commands[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004hccd commands[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hppwd[?2004l
+/Users/eliasvargas/Desktop/CSE 113/prelab0/commands
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004httouch hunter.txt          honk.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccode hn onkt.  .txt [?2004l
+zsh: command not found: code
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccat honk.txt[?2004l
+Hello world[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccp ..[?2004l
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file ... target_directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccp honk.txt[?2004l
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file ... target_directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccp h c  ppwe d[?2004l
+/Users/eliasvargas/Desktop/CSE 113/prelab0/commands
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccp honk.text   xt    [?2004l
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file ... target_directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccoc cp honk.txt[?2004l
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file ... target_directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccp honk.text    xt prelab0[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccp honk.txt ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0/commands[0m[27m[24m[Jeliasvargas@The-Dingus-Book commands % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004hlls[?2004l
+commands	commands.script	honk.txt	typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004hrrm commands[?2004l
+rm: commands: is a directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004hrrmdir commands[?2004l
+rmdir: commands: Directory not empty
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004hrr rm -r commands[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004hlls[?2004l
+commands.script	honk.txt	typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://The-Dingus-Book.local/Users/eliasvargas/Desktop/CSE%20113/prelab0[0m[27m[24m[Jeliasvargas@The-Dingus-Book prelab0 % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Mon Aug 21 15:34:11 2023
