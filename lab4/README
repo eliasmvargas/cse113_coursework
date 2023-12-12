@@ -1,0 +1,3 @@
+Purpose: The purpose of this lab is to experiment with debugging and following lines of logical operators.
+Conclusion: I learned that GDB is kind of finicky but it's pretty useful for recursive call functions. The pair programming was pretty helpful as usual, but I'm introverted so..
+Just getting used to GDB was pretty tricky at first. No bugs AFAIK. There's not really anything to add to this code.

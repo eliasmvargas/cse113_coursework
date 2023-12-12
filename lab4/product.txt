@@ -1,0 +1,33 @@
+Breakpoint 1, product (a=5, b=10) at product.c:13
+13            return product(a, mid) + product(b, mid);
+(gdb) s
+product (a=5, b=7) at product.c:8
+8           if (a == b) 
+(gdb) s
+11            mid = (a + b) / 2;
+(gdb) s
+
+Breakpoint 1, product (a=5, b=7) at product.c:13
+13            return product(a, mid) + product(b, mid);
+(gdb) s
+product (a=5, b=6) at product.c:8
+8           if (a == b) 
+(gdb) s
+11            mid = (a + b) / 2;
+(gdb) s
+
+Breakpoint 1, product (a=5, b=6) at product.c:13
+13            return product(a, mid) + product(b, mid);
+(gdb) s
+product (a=5, b=5) at product.c:8
+8           if (a == b) 
+(gdb) s
+9              return a;
+(gdb) bt
+#0  product (a=5, b=5) at product.c:9
+#1  0x000055555555518c in product (a=5, b=6) at product.c:13
+#2  0x000055555555518c in product (a=5, b=7) at product.c:13
+#3  0x000055555555518c in product (a=5, b=10) at product.c:13
+#4  0x00005555555551c0 in main () at product.c:23
+(gdb) 
+

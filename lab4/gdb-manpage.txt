@@ -1,0 +1,60 @@
+GNU debugger manpage
+
+file
+Selects the file in the given argument to debug.
+
+backtrace 
+Line by line list of every action in a program. This shows a history of how the program got from point A to point B, showing the various changes in variables and function calls.
+Entered alternatively as 'bt'.
+
+run
+Runs the program.
+
+list
+Lists the code around where it last stopped. 
+
+help
+Prints a list of possible arguments with explanations.
+
+break
+Creates a set stopping point in the program at the line of the given argument. That is to say, the line given in the argument will not run.
+Can also be entered as simply 'b'.
+
+continue
+Resumes the program after hitting a breakpoint.
+
+step
+Runs a single line after a breakpoint. Can also be entered as 's'.
+
+bt full
+Backtrace but it includes local variables.
+
+print
+Displays variable given in the print argument.
+
+frame
+Prints the frame given in the argument, if no arguent prints the current frame.
+
+kill
+Exits session.
+
+next
+Skips to the next non-function line.
+
+info b
+Prints a list of all created breakpoints.
+
+disable/enable
+Disables or enables the breakpoint provided in the command argument.
+
+delete
+Deletes the breakpoint given in the argument, similar to clear.
+Can also be entered as 'd'.
+
+watch
+Watched variables are like breakpoints but trigger whenever there is a change in a watched variable.
+
+explaining a conditional breakpoint
+Conditional breakpoints are breakpoints that are only activated given a certain condition or state. For example, if x = 10, break.
+Do this by setting a breakpoint, and then entering a condition in a new line. The syntax is: "b (breakpoint number) (condition)"
+For example, "b 10", and then "condition 1 x = 10". In other words, breakpoint 1 should activate when x = 10.

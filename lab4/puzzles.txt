@@ -1,0 +1,19 @@
+1) 
+This should just print out x = 2, y = 1, z = 1 because x > 0 meaning it is true, so the addition to y and z doesn't happen. This is justified in the code :D 
+This should print x = 2 y = 2 z = 1. Same reason as 1. Correct to the code.
+x = 2 y = 2 z = 2. There's no or statement so all of the values should be added. Correct to the code :D 
+x = 0 y = 0 z = -1 . z and y are equal which returns true, which satisfies the or statement. Not justified by the code.. I really can't wrap my brain around why.
+x = 0 because it returns false and the other side returns a true: y = -1 and z = -1 because they both are equivalent which makes them return a true value. Supported by the code!
+x = 0, y = z = -1. This is because x and y are equivalent at that point, meaning x is incremented because it returns a true value, but since -1 /= 0, it returns a false and doesn't increment. Supported by the code.
+
+2) You're not allowed to put '-' in a function name.
+3) This code should print only 1, because the while criteria isn't satisfied. 1 < 15 is true, so it will not continue the do-while loop.
+4) This should print "f is NOT 1.0" because in the if/else statement, we are comparing if f == 1.0f, which in this case it should not. So it prints the else statement.
+5) You cannot declare an int to be '1,2'. it only accepts a single number. 
+6) Because we are asking the size of 'arr', which is technically a pointer, it should return 8 bytes. That's the size of a pointer on a 64bit system.
+7) These calls to scanf are identical. The space doesn't matter.
+8) This should print 10, 4, and 11. The first print is simple, the second print prints the size of i which is an int so it should return 4 bytes, and then the next print is 11 because the previous call incremented i to 11.
+9) This could be fixed by padding with one zero, this is done by using %01d.
+10) Change the n to an i.
+11) a is never initialized so this will return some sort of error.
+12) This should return that i = 7 because only one of the statements is true so it should only increment once.
